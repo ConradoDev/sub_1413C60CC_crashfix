@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashSpawnEvent CrashFix", "sub_1413C60CC_crashfix\sub_1413C60CC_crashfix.csproj", "{EBD1D351-FC81-40BC-BA32-F36ECBC55ADE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBD1D351-FC81-40BC-BA32-F36ECBC55ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBD1D351-FC81-40BC-BA32-F36ECBC55ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBD1D351-FC81-40BC-BA32-F36ECBC55ADE}.Debug|x64.ActiveCfg = Debug|x64
+		{EBD1D351-FC81-40BC-BA32-F36ECBC55ADE}.Debug|x64.Build.0 = Debug|x64
+		{EBD1D351-FC81-40BC-BA32-F36ECBC55ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBD1D351-FC81-40BC-BA32-F36ECBC55ADE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBD1D351-FC81-40BC-BA32-F36ECBC55ADE}.Release|x64.ActiveCfg = Release|x64
+		{EBD1D351-FC81-40BC-BA32-F36ECBC55ADE}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0496CA24-87DF-46B1-8930-AE03DDAE97ED}
+	EndGlobalSection
+EndGlobal
